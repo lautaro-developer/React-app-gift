@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.App {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+.App > a {
+  color: #d1d1d1;
+}
+
+img {
+  width: 100%;
+}
